@@ -46,8 +46,21 @@
   <img src="https://img.shields.io/badge/jenkins-d43530?&style=for-the-badge&logo=jenkins&logoColor=white" />  
 </p>
 <hr>
-
+<h4 align="center"> 📈📈 Some statistics 📈📈</h4>
+<center>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadwa55&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadwa55&theme=tokyonight" alt="mystreak"/>
+    </td>
+  </tr>
+</table>
+</center>
 <br>
+<hr>
 <p align="right">
   <a href="https://www.spotify.com">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
@@ -62,3 +75,5 @@
 </p>
 
 </center>
+
+
